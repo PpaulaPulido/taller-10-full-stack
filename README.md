@@ -17,6 +17,8 @@
 <img src="./public/images/punto-4.PNG" alt = "punto 4">
 
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
+<img src="./public/images/punto-5.PNG" alt = "punto 5">
+
 <h2>Punto 6: Detección de mayoria de edad</h2>
 <h2>Punto 7: Selección de operación aritmética</h2>
 <h2>Punto 8: Entrada de bolera usando Swith</h2>
