@@ -8,9 +8,11 @@
 <img src="./public/images/punto-1.png" alt = "punto 1">
 
 <h2>Punto 2: Suma de Constantes y Variables</h2>
-<img src="./public/images/punto-2.png" alt = "punto 2">
+<img src="./public/images/punto-2.PNG" alt = "punto 2">
 
 <h2>Punto 3: Suma de dos números indicados por el usuario</h2>
+<img src="./public/images/punto-3.PNG" alt = "punto 3">
+
 <h2>Punto 4: Datos del usuario en consola</h2>
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
 <h2>Punto 6: Detección de mayoria de edad</h2>
