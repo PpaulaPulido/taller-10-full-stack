@@ -14,6 +14,8 @@
 <img src="./public/images/punto-3.PNG" alt = "punto 3">
 
 <h2>Punto 4: Datos del usuario en consola</h2>
+<img src="./public/images/punto-4.PNG" alt = "punto 4">
+
 <h2>Punto 5: Entrada de bolera usando if / else</h2>
 <h2>Punto 6: Detección de mayoria de edad</h2>
 <h2>Punto 7: Selección de operación aritmética</h2>
